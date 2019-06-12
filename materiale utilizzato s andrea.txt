@@ -67,5 +67,8 @@ Saldatore a stagno:
 Kit stazione saldatura. 15 euro
 https://s.click.aliexpress.com/e/mfJ70pi
 
+Driver Arduino ch340  link
+http://www.lucadentella.it/2015/10/20/cloni-arduino-e-chip-ch340g/
+
 
 
